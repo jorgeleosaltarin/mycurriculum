@@ -1,2 +1,1 @@
-# mycurriculum
-Mi Curriculum
+#  Mi Curriculum
